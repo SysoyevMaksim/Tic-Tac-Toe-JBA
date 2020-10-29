@@ -1,10 +1,6 @@
 type: edu
 custom_name: What's up on the field?
 files:
-- name: tictactoe/tictactoe.py
-  visible: true
-  text: '# write your code here'
-  learner_created: false
 - name: tests.py
   visible: false
   text: |
@@ -232,4 +228,4 @@ feedback:
   message: Congratulations! Continue on <a href="https://hyperskill.org/projects/73/stages/401/implement">JetBrains
     Academy</a>
   time: Wed, 28 Oct 2020 05:43:08 UTC
-record: -1
+record: 3
